@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de6a8e59-09a2-4daf-b419-621f09678017"
+      }
+    },
+    "owner": "peryssiahaan"
   }
 }
